@@ -63,7 +63,7 @@ public class Player : MonoBehaviour
         if (!IsFloor)
         {
             IsDead = true;
-            Debug.Log("Öldün dostm");
+            Debug.Log("Ölüm");
         }
     }
 }
